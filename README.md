@@ -49,5 +49,4 @@ This project uses the following public API for fetching articles:
 https://github.com/user-attachments/assets/d1762b00-ac5e-47c6-9b44-ce3f579819c6
 
 
-![DetailsScreen](https://github.com/user-attachments/assets/f78e73da-ffd3-4113-86b3-c6422a50af19)
 ![ListScreen](https://github.com/user-attachments/assets/c1335364-da8e-4c12-b554-fa6bbf48370e)
