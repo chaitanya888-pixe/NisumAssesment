@@ -39,8 +39,13 @@ This project uses the following public API for fetching articles:
 ### 3. **Error Handling**
    - Manages empty, error, and successful data states with appropriate UI feedback.
 
+
+
 ### 4. **Dependency Injection**
    - Implemented using modules to simplify dependency management and testing.
+
+### https://github.com/user-attachments/assets/5c1004d9-d771-45b2-8719-e3808e6fa3bf
+
 
 
 
