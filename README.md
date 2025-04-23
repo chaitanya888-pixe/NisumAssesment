@@ -50,3 +50,6 @@ https://github.com/user-attachments/assets/d1762b00-ac5e-47c6-9b44-ce3f579819c6
 
 
 ![ListScreen](https://github.com/user-attachments/assets/c1335364-da8e-4c12-b554-fa6bbf48370e)
+
+![DetailsScreen](https://github.com/user-attachments/assets/3e317076-463e-4b22-9273-2a68e97b9df6)
+
