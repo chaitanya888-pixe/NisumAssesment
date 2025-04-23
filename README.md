@@ -44,11 +44,5 @@ This project uses the following public API for fetching articles:
 ### 4. **Dependency Injection**
    - Implemented using modules to simplify dependency management and testing.
 
-### https://github.com/user-attachments/assets/5c1004d9-d771-45b2-8719-e3808e6fa3bf
 
-
-
-
-![DetailsScreen](https://github.com/user-attachments/assets/4e959904-edeb-4223-98c3-48eceb0a5659)
-![ListScreen](https://github.com/user-attachments/assets/a3f9a9ff-d142-445c-9e91-57944780939a)
 
